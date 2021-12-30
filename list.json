@@ -10,6 +10,19 @@
             "en": "..."
         }
     },
+
+    {
+        "address": "0x011De8377C6081659bD257B14fbbA069512c271c",
+        "decimals": 18,
+        "totalSupply": "1500000000",
+        "name": "GifteZ",
+        "symbol": "GTZ",
+        "website": "",
+        "description": {
+            "en": "..."
+        }
+    },
+    
     {
         "address": "one1fy7f6smzld8ar5xp0fhv45yduvlurkxzr0mj8g",
         "decimals": 18,
